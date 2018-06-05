@@ -27,6 +27,7 @@
 		E7A2F47E20C6719300DE1BE5 /* MASViewConstraint.m in Sources */ = {isa = PBXBuildFile; fileRef = E7A2F47320C6719300DE1BE5 /* MASViewConstraint.m */; };
 		E7A2F47F20C6719300DE1BE5 /* MASViewAttribute.m in Sources */ = {isa = PBXBuildFile; fileRef = E7A2F47420C6719300DE1BE5 /* MASViewAttribute.m */; };
 		E7A2F48020C6719300DE1BE5 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = E7A2F47520C6719300DE1BE5 /* Info.plist */; };
+		E7A2F48220C67E9700DE1BE5 /* demo.gif in Resources */ = {isa = PBXBuildFile; fileRef = E7A2F48120C67E9700DE1BE5 /* demo.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -91,6 +92,7 @@
 		E7A2F47320C6719300DE1BE5 /* MASViewConstraint.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MASViewConstraint.m; sourceTree = "<group>"; };
 		E7A2F47420C6719300DE1BE5 /* MASViewAttribute.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MASViewAttribute.m; sourceTree = "<group>"; };
 		E7A2F47520C6719300DE1BE5 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E7A2F48120C67E9700DE1BE5 /* demo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = demo.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -141,6 +143,7 @@
 		E7A2F41D20C6708600DE1BE5 /* JDDAlertView-master */ = {
 			isa = PBXGroup;
 			children = (
+				E7A2F48120C67E9700DE1BE5 /* demo.gif */,
 				E7A2F45B20C6719200DE1BE5 /* Masonry */,
 				E7A2F45020C6708E00DE1BE5 /* JDDAlert */,
 				E7A2F41E20C6708600DE1BE5 /* AppDelegate.h */,
@@ -321,6 +324,7 @@
 			files = (
 				E7A2F48020C6719300DE1BE5 /* Info.plist in Resources */,
 				E7A2F42B20C6708800DE1BE5 /* LaunchScreen.storyboard in Resources */,
+				E7A2F48220C67E9700DE1BE5 /* demo.gif in Resources */,
 				E7A2F42820C6708800DE1BE5 /* Assets.xcassets in Resources */,
 				E7A2F42620C6708600DE1BE5 /* Main.storyboard in Resources */,
 			);
